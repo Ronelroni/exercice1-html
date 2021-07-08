@@ -13,15 +13,17 @@
   width: 480px;
 }
 .btn {
-  text-align: center;
-  margin-top: 10px;
   margin-bottom: 50px;
+  margin-left: 130px;
+  text-align: center;
+  margin-top: 50px;
 }
 .bouton {
   background-color: #008B8B;
   font-size: 3rem;
   padding: 10px;
   color: white;
+
 }
 .bouton:hover {
   opacity: 0.6;
